@@ -14,3 +14,7 @@ step2 : create a css file with Styles.css
 Step3: create a js file with extension script.js
 
 Now save the all the files and link the files and run the file 
+
+How to Run?
+
+To run my application you simply need to clone the project and run the html file.
